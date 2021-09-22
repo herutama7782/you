@@ -1575,3 +1575,10 @@ https://www.youtube.com/watch?v=s7t3J1OmZW8&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0
 https://www.youtube.com/watch?v=vxK9KcG-TyE&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=81
 #EXTINF:-4 group-title="4. SIRAH NABAWIYAH" tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/SIRAH%20NABAWIYAH.jpg",Sirah Nabawiyah 82
 https://www.youtube.com/watch?v=FAQtL8M_-0w&list=PLXHX25swM0h_DeU5zsd2G2nVdxq3C0-xQ&index=82
+
+#EXTINF:-5 group-title="5. TATA CARA SHOLAT" tvg-logo="https://yufid.com/images/logo-yufid2.png",Tata Cara Sholat 1
+https://www.youtube.com/watch?v=w4_-gEfDI4g&list=PLUuYlj8dcEXb59fKIqHOHrxJyXcTruhkA&index=1
+#EXTINF:-5 group-title="5. TATA CARA SHOLAT" tvg-logo="https://yufid.com/images/logo-yufid2.png",Tata Cara Sholat 2
+https://www.youtube.com/watch?v=A0GhWXa2Oqg&list=PLUuYlj8dcEXb59fKIqHOHrxJyXcTruhkA&index=2
+#EXTINF:-5 group-title="5. TATA CARA SHOLAT" tvg-logo="https://yufid.com/images/logo-yufid2.png",Tata Cara Sholat 3
+https://www.youtube.com/watch?v=dgvzkBKGtHs&list=PLUuYlj8dcEXb59fKIqHOHrxJyXcTruhkA&index=3
